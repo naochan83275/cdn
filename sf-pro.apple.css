@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'SF-Pro';
+  src: url('https://naochan83275.github.io/cdn/SF-Pro.ttf') format('truetype');
+}
+html {
+  font-family: 'SF-Pro';
+}
